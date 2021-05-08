@@ -1,2 +1,1 @@
-# Practica-1-programacion-ll
-hola mundo
+# hola_mundo_android
